@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dream-player-message-box/static/css/main.3e83ae30.chunk.css",
+    "main.js": "/dream-player-message-box/static/js/main.7ea8a25d.chunk.js",
+    "main.js.map": "/dream-player-message-box/static/js/main.7ea8a25d.chunk.js.map",
+    "runtime-main.js": "/dream-player-message-box/static/js/runtime-main.47ab7dc0.js",
+    "runtime-main.js.map": "/dream-player-message-box/static/js/runtime-main.47ab7dc0.js.map",
+    "static/js/2.ba808f71.chunk.js": "/dream-player-message-box/static/js/2.ba808f71.chunk.js",
+    "static/js/2.ba808f71.chunk.js.map": "/dream-player-message-box/static/js/2.ba808f71.chunk.js.map",
+    "static/js/3.82e2d4ed.chunk.js": "/dream-player-message-box/static/js/3.82e2d4ed.chunk.js",
+    "static/js/3.82e2d4ed.chunk.js.map": "/dream-player-message-box/static/js/3.82e2d4ed.chunk.js.map",
+    "index.html": "/dream-player-message-box/index.html",
+    "static/css/main.3e83ae30.chunk.css.map": "/dream-player-message-box/static/css/main.3e83ae30.chunk.css.map",
+    "static/js/2.ba808f71.chunk.js.LICENSE.txt": "/dream-player-message-box/static/js/2.ba808f71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ab7dc0.js",
+    "static/js/2.ba808f71.chunk.js",
+    "static/css/main.3e83ae30.chunk.css",
+    "static/js/main.7ea8a25d.chunk.js"
+  ]
+}
